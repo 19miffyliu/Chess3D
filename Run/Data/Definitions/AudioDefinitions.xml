@@ -1,0 +1,10 @@
+<AudioDefinitions BGMPath="Data/Audio/Musics/" SFXPath="Data/Audio/SFXs/">
+	<AudioDefinition isBGM="false" fileName="game-end" SFXType="GameOver" fileSuffix=".mp3"/>
+	<AudioDefinition isBGM="false" fileName="game-start" SFXType="GameStart" fileSuffix=".mp3"/>
+	<AudioDefinition isBGM="false" fileName="move_" SFXType="Move" isGrouped="true" fileSuffix=".mp3" groupStartIndex="1" groupEndIndex="7"/>
+	<AudioDefinition isBGM="false" fileName="notify" SFXType="InfoMessage" fileSuffix=".mp3"/>
+	<AudioDefinition isBGM="false" fileName="illegal" SFXType="ErrorMessage" fileSuffix=".mp3"/>
+	
+</AudioDefinitions>
+
+

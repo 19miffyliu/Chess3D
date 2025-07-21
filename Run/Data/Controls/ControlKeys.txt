@@ -1,0 +1,23 @@
+[Gameplay Controls]
+Keyboard:
+- Press "Space" or "N" in attract mode to start the game
+- Press "ESC" in game to go back to attract mode/exit the program
+- Move mouse to change the camera yaw and pitch
+- Press "WASD" to move the camera horizontally
+- Press "Q" or "E" to move the camera down or up
+- Hold "Shift" to increase camera movement speed by 10x
+- Press "F4" to toggle free-fly or auto camera
+- Press "F1" to toggle debug render for Lights
+- Press 0-9 or NUMPAD 0-9 to switch debug render for Chess Objects
+- Press "R" to disable debug render for Chess Objects
+[Debug Controls]
+Keyboard:
+- Press ` to toggle Dev Console
+- Press "P" to pause the game
+- Press "O" to step single frame
+- Hold "T" to enter slow motion mode
+
+
+Console Commands:
+- Type "clear" to clear all debug objects
+- Type "toggle" to toggle visibility of debug objects

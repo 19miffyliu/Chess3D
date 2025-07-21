@@ -1,0 +1,25 @@
+<GameConfig
+  globalVolume="0.5"
+  buttonClickSound="Data/Audio/Click.mp3"
+  defaultBoardState="RNBQKBNRPPPPPPPP................................pppppppprnbqkbnr"
+  chessBoardDiffuseTexture="FunkyBricks_d.png"
+  chessBoardNormalTexture="FunkyBricks_n.png"
+  chessBoardSGETexture="FunkyBricks_sge.png"
+  chessPieceDiffuseTexture="Wood_D_1.png"
+  chessPieceNormalTexture="Wood_N_1.png"
+  chessPieceSGETexture="Wood_SGE.png"
+  
+  modelFileName=""
+  modelTransform="-1,4,0"
+/>
+
+<!-- modelFileName="Data/Models/Cube/Cube_vni"
+  modelTransform="-1,4,0"-->
+<!-- Data/Models/Woman/Woman -->
+<!--chessPieceDiffuseTexture="Cobblestone_Diffuse.png"
+  chessPieceNormalTexture="Cobblestone_Normal.png"
+  chessPieceSGETexture="Cobblestone_SpecGlossEmit.png"-->
+
+
+
+

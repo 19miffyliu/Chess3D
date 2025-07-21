@@ -1,0 +1,11 @@
+<StaticModelInfo
+	objFile = "Data/Models/Woman/Woman.obj"
+	shader = "Data/Shaders/BlinnPhong"
+	diffuseMap = "Data/Models/Woman/Woman_Diffuse.png"
+	normalMap = "Data/Models/Woman/Woman_Normal.png"
+	specGlossEmitMap = ""
+	unitsPerMeter = "100"
+	x="left"
+	y="up"
+	z="forward"
+/>

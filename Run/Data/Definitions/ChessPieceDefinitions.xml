@@ -1,0 +1,8 @@
+<Definitions>
+  <ChessPieceDefinition name="Pawn" glyphUpperCase="P" glyphLowerCase="p" type="0" />
+  <ChessPieceDefinition name="Rook" glyphUpperCase="R" glyphLowerCase="r" type="1" />
+  <ChessPieceDefinition name="Knight" glyphUpperCase="N" glyphLowerCase="n" type="2" />
+  <ChessPieceDefinition name="Bishop" glyphUpperCase="B" glyphLowerCase="b" type="3" />
+  <ChessPieceDefinition name="Queen" glyphUpperCase="Q" glyphLowerCase="q" type="4" />
+  <ChessPieceDefinition name="King" glyphUpperCase="K" glyphLowerCase="k" type="5" />
+</Definitions>
